@@ -1,5 +1,5 @@
 # Sonic-The-Hedgehog-2SMS-Remaster-Source
-The source code for Sonic The Hedgehog 2 on GameJolt
+The source code for Sonic The Hedgehog 2 on GameJolt, game link: https://gamejolt.com/games/sonicthehedgehod2smsdemo/526055
 
 # English
 
